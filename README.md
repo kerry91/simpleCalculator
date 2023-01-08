@@ -13,4 +13,6 @@ Can you suggest any improvements for the calculator app?
 
 ![simple calculator](https://user-images.githubusercontent.com/36702039/211194637-5231ca7f-6efb-4fe4-a32b-64e2d6a85725.png)
 
+![calculator feedback](https://user-images.githubusercontent.com/36702039/211194696-6a111ae8-ad65-4978-b567-5e14e6a59d07.png)
+
 
