@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![React Basics](https://user-images.githubusercontent.com/36702039/211194420-26212d60-b2d7-462c-8abd-5805861b3020.png)
 
 When you submit your assignment, other learners in the course will review and grade your work. They will be looking at the following.
+<br/>
 **Calculator functionality**
 
 - When interacting with the calculator app in the UGL or VS Code:
